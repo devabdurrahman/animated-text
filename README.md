@@ -1,1 +1,1 @@
-# animated-text
+Animated text with Html,css,jquery
